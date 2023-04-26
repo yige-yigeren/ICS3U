@@ -1,0 +1,319 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "readNumbers",
+            "request": "launch",
+            "mainClass": "Lesson11.readNumbers",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "readFile",
+            "request": "launch",
+            "mainClass": "Lesson11.readFile",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "Inclass",
+            "request": "launch",
+            "mainClass": "Unit1/Exam.Inclass",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "norepeats",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.norepeats",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "quad",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.quad",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "password",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.password",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "sameChar",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.sameChar",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "same",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.same",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "isPrime",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.isPrime",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "one2two",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.one2two",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "words",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.words",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "data_types",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson1.data_types",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "perfect",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson10.perfect",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "sortArray",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson10.sortArray",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "middle",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.middle",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "vowels",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.vowels",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "highest",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.highest",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "candivide",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.candivide",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "add3",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.add3",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "method1",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson9.method1",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "sameNumber",
+            "request": "launch",
+            "mainClass": "Unit1/Exam.sameNumber",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h41",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h41",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h18",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h18",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h19",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h19",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "e4_19_1",
+            "request": "launch",
+            "mainClass": "Unit1/Exam.e4_19_1",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "stringAList",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson8.stringAList",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "aList",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson8.aList",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h50",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h50",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h49",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h49",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "average2D",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson8.average2D",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "array2D",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson8.array2D",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h39",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h39",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h37",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h37",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h38",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h38",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "eArray",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson7.eArray",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "maxMinArray",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson7.maxMinArray",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "stringArray",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson7.stringArray",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "arraysEx",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson7.arraysEx",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h27",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h27",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h26",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h26",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h25",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h25",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h20",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h20",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h22",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h22",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h21",
+            "request": "launch",
+            "mainClass": "Unit1/Homework.h21",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "forString2",
+            "request": "launch",
+            "mainClass": "Unit1/Lesson6.forString2",
+            "projectName": "Unit1"
+        }
+    ]
+}
