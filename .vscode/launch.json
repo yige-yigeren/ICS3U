@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "Lesson12.recursion",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
             "name": "courses3",
             "request": "launch",
             "mainClass": "Lesson12.courses3",

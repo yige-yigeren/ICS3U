@@ -7,7 +7,7 @@ public class stringAList {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        ArrayList<Integer> a = new ArrayList<Integer>(); //创建一个新的ArrayList对象a
+        ArrayList<Integer> c = new ArrayList<Integer>(); //创建一个新的ArrayList对象a
 
         System.out.println("How many words do you want to enter?");
         int num = sc.nextInt();
