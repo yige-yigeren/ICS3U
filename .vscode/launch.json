@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "courses3",
+            "request": "launch",
+            "mainClass": "Lesson12.courses3",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "courses2",
+            "request": "launch",
+            "mainClass": "Lesson12.courses2",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "courses",
+            "request": "launch",
+            "mainClass": "Lesson12.courses",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "h33",
+            "request": "launch",
+            "mainClass": "Homework.h33",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
             "name": "readNumbers",
             "request": "launch",
             "mainClass": "Lesson11.readNumbers",
