@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fractionMain",
+            "request": "launch",
+            "mainClass": "Lesson15.fractionMain",
+            "projectName": "Unit1 (2)"
+        },
+        {
+            "type": "java",
+            "name": "studentMain",
+            "request": "launch",
+            "mainClass": "Lesson14.studentMain",
+            "projectName": "Unit2"
+        },
+        {
+            "type": "java",
+            "name": "MicrowaveMain",
+            "request": "launch",
+            "mainClass": "Lesson14.MicrowaveMain",
+            "projectName": "Unit2"
+        },
+        {
+            "type": "java",
+            "name": "SupermanMain",
+            "request": "launch",
+            "mainClass": "Lesson14.SupermanMain",
+            "projectName": "Unit2"
+        },
+        {
+            "type": "java",
+            "name": "SupermanMain",
+            "request": "launch",
+            "mainClass": "Lesson14.SupermanMain",
+            "projectName": "Unit2"
+        },
+        {
+            "type": "java",
+            "name": "moreRecurrsion",
+            "request": "launch",
+            "mainClass": "Lesson13.moreRecurrsion",
+            "projectName": "Unit2"
+        },
+        {
+            "type": "java",
             "name": "recursion",
             "request": "launch",
             "mainClass": "Lesson12.recursion",
