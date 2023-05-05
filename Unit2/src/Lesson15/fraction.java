@@ -3,8 +3,8 @@ package Lesson15;
 public class fraction {
     
     //fields
-    private int num;
-    private int denom;
+    int num;
+    int denom;
 
     //constructors
     fraction (int n, int d) {

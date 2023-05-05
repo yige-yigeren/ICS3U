@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "doctorMain",
+            "request": "launch",
+            "mainClass": "Lesson17.doctorMain",
+            "projectName": "Unit2"
+        },
+        {
+            "type": "java",
+            "name": "bookMain",
+            "request": "launch",
+            "mainClass": "Lesson17.bookMain",
+            "projectName": "Unit2"
+        },
+        {
+            "type": "java",
+            "name": "animalMain",
+            "request": "launch",
+            "mainClass": "Lesson16.animalMain",
+            "projectName": "Unit2"
+        },
+        {
+            "type": "java",
+            "name": "mtfactionMain",
+            "request": "launch",
+            "mainClass": "Lesson15.mtfactionMain",
+            "projectName": "Unit1 (2)"
+        },
+        {
+            "type": "java",
             "name": "fractionMain",
             "request": "launch",
             "mainClass": "Lesson15.fractionMain",
