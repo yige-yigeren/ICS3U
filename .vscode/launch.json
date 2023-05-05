@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "carMain",
+            "request": "launch",
+            "mainClass": "Lesson18.carMain",
+            "projectName": "Unit2"
+        },
+        {
+            "type": "java",
+            "name": "animalMain",
+            "request": "launch",
+            "mainClass": "Lesson18.animalMain",
+            "projectName": "Unit2"
+        },
+        {
+            "type": "java",
             "name": "doctorMain",
             "request": "launch",
             "mainClass": "Lesson17.doctorMain",
