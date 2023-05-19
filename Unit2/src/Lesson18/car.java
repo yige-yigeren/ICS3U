@@ -3,7 +3,7 @@ package Lesson18;
 public class car {
     private double mileage;
 
-    car(double m) {
+    public car(double m) {
         mileage = m;
     }
 

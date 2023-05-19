@@ -2,6 +2,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "linkedListMain",
+            "request": "launch",
+            "mainClass": "Lesson22.linkedListMain",
+            "projectName": "Unit3"
+        },
+        {
+            "type": "java",
+            "name": "change2",
+            "request": "launch",
+            "mainClass": "Lesson21.change2",
+            "projectName": "Unit3"
+        },
+        {
+            "type": "java",
+            "name": "change2",
+            "request": "launch",
+            "mainClass": "Lesson20.change2",
+            "projectName": "Unit3"
+        },
+        {
+            "type": "java",
+            "name": "change",
+            "request": "launch",
+            "mainClass": "Lesson20.change",
+            "projectName": "Unit3"
+        },
+        {
+            "type": "java",
+            "name": "tictactoe2",
+            "request": "launch",
+            "mainClass": "Exam.tictactoe2",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "tictactoe1",
+            "request": "launch",
+            "mainClass": "Exam.tictactoe1",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "tictactoe",
+            "request": "launch",
+            "mainClass": "Exam.tictactoe",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "codeBreaker",
+            "request": "launch",
+            "mainClass": "Exam.codeBreaker",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "electronicMain",
+            "request": "launch",
+            "mainClass": "Lesson19.electronicMain",
+            "projectName": "Unit2"
+        },
+        {
+            "type": "java",
             "name": "carMain",
             "request": "launch",
             "mainClass": "Lesson18.carMain",
