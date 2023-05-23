@@ -19,14 +19,15 @@ public class linkedList {
     void print () {
         node temp = head;
         while (temp != null) {
-            System.out.println(temp.value + " ");
+            System.out.print(temp.value + " ");
             temp = temp.next;
         }
+        System.out.println();
     }
 
     boolean search (int a) {
         node temp = head;
-        while (temp != null) {
+        while (temp.next != null) {
             if (temp.value == a) {
                 return true;
             }
@@ -86,23 +87,36 @@ public class linkedList {
 
     void remove (int a) {
         node temp = head;
-        while (temp != null) {
-            if (temp.next.value == a) {
+        while (temp.value == a) {
+            head = temp.next;
+            temp = head;
+        }
+        while (temp.next != null) {
+            while (temp.next != null && temp.next.value == a) {
                 temp.next = temp.next.next;
             }
             temp = temp.next;
+            if (temp == null) {
+                break;
+            }
         }
+        
     }
 
     void insert (int a, int b) {
         node temp = head;
-        while (temp != null) {
-            if (temp.value == a) {
-                node temp2 = temp.next;
-                temp.next = new node(b);
-                temp.next.next = temp2;
+        if (a == 0) {
+            node temp2 = new node(b);
+            temp2.next = head;
+            head = temp2;
+        }
+        else {
+            for (int i = 0; i < a - 1; i++) {
+                temp = temp.next;
             }
-            temp = temp.next;
+            node temp2 = new node(b);
+            temp2.next = temp.next;
+            temp.next = temp2;
         }
     }
 }

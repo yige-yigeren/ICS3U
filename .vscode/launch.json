@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FILOMain",
+            "request": "launch",
+            "mainClass": "Lesson24.FILOMain",
+            "projectName": "Unit3"
+        },
+        {
+            "type": "java",
+            "name": "FIFOMain",
+            "request": "launch",
+            "mainClass": "Lesson24.FIFOMain",
+            "projectName": "Unit3"
+        },
+        {
+            "type": "java",
+            "name": "heap",
+            "request": "launch",
+            "mainClass": "Lesson24.heap",
+            "projectName": "Unit3"
+        },
+        {
+            "type": "java",
+            "name": "DLLMain",
+            "request": "launch",
+            "mainClass": "Lesson23.DLLMain",
+            "projectName": "Unit3"
+        },
+        {
+            "type": "java",
             "name": "linkedListMain",
             "request": "launch",
             "mainClass": "Lesson22.linkedListMain",
