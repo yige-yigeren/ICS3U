@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ticTacToe",
+            "request": "launch",
+            "mainClass": "Test.ticTacToe",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "Test.a",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "DLLMain",
+            "request": "launch",
+            "mainClass": "Exam.DLLMain",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "DLLMain",
+            "request": "launch",
+            "mainClass": "Lesson26.DLLMain",
+            "projectName": "Unit3"
+        },
+        {
+            "type": "java",
+            "name": "BSTMain",
+            "request": "launch",
+            "mainClass": "Lesson25.BSTMain",
+            "projectName": "Unit3"
+        },
+        {
+            "type": "java",
             "name": "FILOMain",
             "request": "launch",
             "mainClass": "Lesson24.FILOMain",

@@ -3,7 +3,7 @@ package Exam;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class tictactoe extends tBoard{
+public class tictactoe {
     public static void main(String[] args) {
     // Name: Mr. Lei
     // Course Code: ICS3U
