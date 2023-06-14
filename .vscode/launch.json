@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "S19S2",
+            "request": "launch",
+            "mainClass": "SSS.S19S2",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "S19S1",
+            "request": "launch",
+            "mainClass": "SSS.S19S1",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "ticTacToe",
+            "request": "launch",
+            "mainClass": "TermProject.ticTacToe",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "S20S2",
+            "request": "launch",
+            "mainClass": "SSS.S20S2",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "S20S1",
+            "request": "launch",
+            "mainClass": "SSS.S20S1",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "S23J3",
+            "request": "launch",
+            "mainClass": "SSS.S23J3",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
             "name": "ticTacToe",
             "request": "launch",
             "mainClass": "Test.ticTacToe",
