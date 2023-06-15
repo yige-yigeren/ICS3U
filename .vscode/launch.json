@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "S19J5",
+            "request": "launch",
+            "mainClass": "SSS.S19J5",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "S19J3",
+            "request": "launch",
+            "mainClass": "SSS.S19J3",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "S19J2",
+            "request": "launch",
+            "mainClass": "SSS.S19J2",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "S19J1",
+            "request": "launch",
+            "mainClass": "SSS.S19J1",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "S20J3",
+            "request": "launch",
+            "mainClass": "SSS.S20J3",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "S20J2",
+            "request": "launch",
+            "mainClass": "SSS.S20J2",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
             "name": "S19S2",
             "request": "launch",
             "mainClass": "SSS.S19S2",
