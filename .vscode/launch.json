@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MMain",
+            "request": "launch",
+            "mainClass": "Exam.MMain",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "Schoolmain",
+            "request": "launch",
+            "mainClass": "AP.Schoolmain",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "Test.Name",
+            "projectName": "Unit1"
+        },
+        {
+            "type": "java",
             "name": "S19J5",
             "request": "launch",
             "mainClass": "SSS.S19J5",

@@ -97,6 +97,7 @@ public class tictactoe {
                 } else {
                     board.print();
                 }
+                System.out.println("Round " + (count + 1));
                 // computer's turn
                 if (mode == 2&& user == 2) {
                     /* Easy Ai By Mr. Lei
@@ -136,6 +137,31 @@ public class tictactoe {
                                 }
                                 board.addPiece('-', i+1);
                             }
+                        }
+                    }
+                    // AI step 2-1-1
+                    // deal with the special case
+                    if (pieced == 0 && count == 3) {
+                        int feat = 0;
+                        if (board.getPiece(5) == piecel[piecec]) {
+                            if (board.getPiece(1) == piecel[piecec % 2 + 1]) {
+                                feat++;
+                            }
+                            if (board.getPiece(3) == piecel[piecec % 2 + 1]) {
+                                feat++;
+                            }
+                            if (board.getPiece(7) == piecel[piecec % 2 + 1]) {
+                                feat++;
+                            }
+                            if (board.getPiece(9) == piecel[piecec % 2 + 1]) {
+                                feat++;
+                            }
+                        }
+                        if (feat == 2){
+                            int i =((int)(Math.random()*4))*2+1;
+                            x = i / 3;
+                            y = i % 3;
+                            pieced = 1;
                         }
                     }
                     // AI step 2-2

@@ -63,7 +63,5 @@ public class tBoard{
             return true;
         }
         return false;
-    }
-
-    
+    }  
 }
